@@ -1,7 +1,9 @@
 {
 	"name": "jims-sql-utils",
+	"publisher":"jmb",
+	"repository": {},
 	"displayName": "Jims SQL Utils",
-	"description": "A collection of utils to help make working with SQL easier",
+	"description": "A collection of txt utils to make working with SQL easier",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.59.0"
@@ -12,6 +14,10 @@
 	"activationEvents": [
 		"onCommand:jims-sql-utils.inClause"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jmbrunskill/jims-sql-utils.git"
+	},
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
