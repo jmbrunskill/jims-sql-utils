@@ -1,7 +1,6 @@
 {
 	"name": "jims-sql-utils",
 	"publisher":"jmb",
-	"repository": {},
 	"displayName": "Jims SQL Utils",
 	"description": "A collection of txt utils to make working with SQL easier",
 	"version": "0.0.1",
