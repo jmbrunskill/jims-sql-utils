@@ -16,10 +16,7 @@ None as of yet
 None as of yet
 
 ## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 0.0.1
+### 0.0.1-2
 
 First ever extension.
 

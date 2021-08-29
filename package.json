@@ -3,7 +3,7 @@
 	"publisher":"jmb",
 	"displayName": "Jim's SQL Utils",
 	"description": "A collection of txt utils to make working with SQL easier, collection size is currently 1.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
