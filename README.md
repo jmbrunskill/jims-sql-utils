@@ -6,6 +6,8 @@ It's really just a quick hack for my personal use but happy to consider ideas fo
 ## Features
 
  * Create csv separated records to put in an 'in' clause
+ ![sqlInclauseDemo](./images/demo.gif)
+
 
 ## Extension Settings
 
